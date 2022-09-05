@@ -29,6 +29,8 @@ body {
   max-width: 1000px;
   width: 95%;
   margin-inline: auto;
+  margin-top: 0;
+  margin-bottom: 0;
   text-align: center;
 
   display: flex;
